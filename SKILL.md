@@ -1,12 +1,10 @@
 ---
 name: algorithmic-decomposition
-description: Break complex problems into fundamental operations, identifying recursive
-  structures, base cases, and step-by-step computational approaches - just as Ada
-  Lovelace decomposed the Bernoulli number ca...
+description: Break complex problems into fundamental operations, identifying recursive structures, base cases, and step-by-step computational approaches - just as Ada Lovelace decomposed the Bernoulli number ca...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - algorithmic-decomposition
 - transformation
